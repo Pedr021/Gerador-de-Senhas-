@@ -1,0 +1,15 @@
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\bin\Debug\net6.0\Gerador de Senha.exe
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\bin\Debug\net6.0\Gerador de Senha.deps.json
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\bin\Debug\net6.0\Gerador de Senha.runtimeconfig.json
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\bin\Debug\net6.0\Gerador de Senha.dll
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\bin\Debug\net6.0\Gerador de Senha.pdb
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net6.0\Gerador de Senha.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net6.0\Gerador de Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net6.0\Gerador de Senha.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net6.0\Gerador de Senha.AssemblyInfo.cs
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net6.0\Gerador de Senha.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net6.0\Gerador de Senha.dll
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net6.0\refint\Gerador de Senha.dll
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net6.0\Gerador de Senha.pdb
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net6.0\Gerador de Senha.genruntimeconfig.cache
+C:\Users\pedro\source\repos\Gerador de Senha\Gerador de Senha\obj\Debug\net6.0\ref\Gerador de Senha.dll
